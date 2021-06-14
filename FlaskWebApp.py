@@ -65,7 +65,7 @@ def adder_page():
                 total = (260 + (250 * d) + (130 * e))
             elif f == "Familia no directa":
                 total = (210 + (200 * d) + (110 * e))
-            elif f == "Amistad muy cercana":
+            elif f == "Amistad muy cercana.":
                 total = (260 + (230 * d) + (115 * e))
             elif f == "Amistad":
                 total = (162 + (150 * d) + (100 * e))
